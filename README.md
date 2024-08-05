@@ -20,9 +20,5 @@ In this project, I created a pizza restaurant website using HTML, CSS, and JavaS
 •JavaScript: Used to add dynamic content and interactions, enhancing the user experience with various functionalities.
 
 # Preview:
-<<<<<<< HEAD
 ![](./PizzaResturant.gif)
 
-=======
-![](./Pizza-Restaurant.gif)
->>>>>>> da0aa8204038f4e117d6af32b5196e12488b33d1
