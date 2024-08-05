@@ -20,7 +20,4 @@ Menu Page: An interactive menu where users can explore our pizza varieties, view
 •JavaScript: Used to add dynamic content and interactions, enhancing the user experience with various functionalities.
 
 # Preview:
-![](./Pizza-Restaurant.gif)# Pizza-Restaurant
-# Pizza-Restaurant
-# Pizza-Restaurant
-# Pizza-Restaurant
+![](./Pizza-Restaurant.gif)
