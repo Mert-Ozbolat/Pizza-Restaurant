@@ -4,9 +4,9 @@ In this project, I created a pizza restaurant website using HTML, CSS, and JavaS
 # 🎯Project Features:
 •Impressive Homepage: A stylish design that welcomes users with images and headlines reflecting the restaurant's atmosphere.
 
-Menu Page: An interactive menu where users can explore our pizza varieties, view ingredients, and check prices.
+•Menu Page: An interactive menu where users can explore our pizza varieties, view ingredients, and check prices.
 
-••Order Form: A responsive and user-friendly order form that allows users to place orders quickly and easily online.
+•Order Form: A responsive and user-friendly order form that allows users to place orders quickly and easily online.
 
 •About Us Section: An informative section telling the story and values of our restaurant.
 
